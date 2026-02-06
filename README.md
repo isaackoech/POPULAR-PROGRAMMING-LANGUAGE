@@ -70,4 +70,4 @@ plt.tight_layout()
 plt.show()
 ```
 ### The Display of the Bar Graph showing 15 Most Popular Progranmming Languages
-  <img width="1026" height="610" alt="Image" src="https://github.com/user-attachments/assets/88d7e325-fe21-4443-80b2-ee4a0ed5d9e1" />
+  <img width="1026" height="610" alt="Screenshot 2026-02-06 221549" src="https://github.com/user-attachments/assets/352419d6-c88a-4c7b-9283-843265b8fb5c" />
