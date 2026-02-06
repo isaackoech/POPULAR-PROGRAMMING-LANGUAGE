@@ -58,7 +58,8 @@ print(Languages)
 print(Popularity)
 ```
   <img width="1469" height="319" alt="Image" src="https://github.com/user-attachments/assets/524fc4a2-eeee-4dc6-a2c3-a32cdbb32d1e" />
-- Step 11: Plotting the bar graph using matplotlib as plt.
+- Step 11: Plotting the bar graph using matplotlib as plt
+  
 ```python
 plt.barh(Languages, Popularity)
 plt.title('15 Most Popular Languages in Development')
@@ -67,6 +68,7 @@ plt.xlabel('Number of People Using')
 plt.tight_layout()
 plt.show()
 ```
+
 ### The Display of the Bar Graph showing 15 Most Popular Progranmming Languages
   <img width="1026" height="610" alt="Screenshot 2026-02-06 221549" src="https://github.com/user-attachments/assets/352419d6-c88a-4c7b-9283-843265b8fb5c" />
 
@@ -90,3 +92,4 @@ plt.show()
 
 
   
+
