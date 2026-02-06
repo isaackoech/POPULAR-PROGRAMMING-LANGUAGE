@@ -64,10 +64,29 @@ plt.barh(Languages, Popularity)
 plt.title('15 Most Popular Languages in Development')
 plt.ylabel('Programming Languages')
 plt.xlabel('Number of People Using')
-
-
 plt.tight_layout()
 plt.show()
 ```
 ### The Display of the Bar Graph showing 15 Most Popular Progranmming Languages
   <img width="1026" height="610" alt="Screenshot 2026-02-06 221549" src="https://github.com/user-attachments/assets/352419d6-c88a-4c7b-9283-843265b8fb5c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
